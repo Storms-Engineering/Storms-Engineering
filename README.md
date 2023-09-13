@@ -7,6 +7,14 @@
 - I like JS(*gasp I know*) and C#, and C++(Not as much experience in C++ as I would like)
 - I love solving complex problems in a solid and understandable way
 - #codeforGod
+          ______  ______   _____
+         / __  / / _   /  /____/ 
+        / / /_/ / / /_/  / /__   
+        _\ \    _\ \    / __ /  
+      / /_/ / / /_/ /  / /___
+     /_____/ /_____/  /_____/
+	 
+	 Storms Software Engineering - Brayden Storms
 
 
 
